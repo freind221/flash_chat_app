@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482060530235",
+    "project_id": "flash-chat-f5239",
+    "storage_bucket": "flash-chat-f5239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482060530235:android:8d0646e3144b72a61e621e",
+        "android_client_info": {
+          "package_name": "com.kamran.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482060530235-iigs6tssagkm6hlm6pv77a4966cdk3e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbU8tV5R12egw-2IbrsqfvekDx0-ASeXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482060530235-iigs6tssagkm6hlm6pv77a4966cdk3e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
